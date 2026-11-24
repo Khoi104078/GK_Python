@@ -1,0 +1,381 @@
+﻿match_id,matchday,match_date,home_team,away_team,status,home_score,away_score,result,total_goals
+560542,1,2026-08-21,Arsenal,Coventry City,FINISHED,3,0,H,3
+560543,1,2026-08-22,Hull City,Man United,FINISHED,2,0,H,2
+560544,1,2026-08-22,Ipswich Town,Sunderland,FINISHED,2,1,H,3
+560545,1,2026-08-22,Nottingham,Leeds United,FINISHED,0,1,A,1
+560546,1,2026-08-22,Everton,Crystal Palace,FINISHED,2,0,H,2
+560547,1,2026-08-22,Brentford,Tottenham,FINISHED,3,0,H,3
+560548,1,2026-08-23,Man City,Bournemouth,FINISHED,2,1,H,3
+560549,1,2026-08-23,Brighton Hove,Aston Villa,FINISHED,4,0,H,4
+560550,1,2026-08-23,Newcastle,Liverpool,FINISHED,2,2,D,4
+560551,1,2026-08-24,Fulham,Chelsea,FINISHED,2,3,A,5
+560555,2,2026-08-28,Crystal Palace,Man City,FINISHED,1,4,A,5
+560552,2,2026-08-29,Liverpool,Nottingham,FINISHED,2,2,D,4
+560558,2,2026-08-29,Tottenham,Newcastle,FINISHED,0,2,A,2
+560560,2,2026-08-29,Bournemouth,Everton,FINISHED,1,1,D,2
+560561,2,2026-08-29,Coventry City,Hull City,FINISHED,0,1,A,1
+560553,2,2026-08-30,Man United,Ipswich Town,FINISHED,5,2,H,7
+560554,2,2026-08-30,Sunderland,Fulham,FINISHED,1,0,H,1
+560556,2,2026-08-30,Chelsea,Brighton Hove,FINISHED,4,3,H,7
+560559,2,2026-08-30,Leeds United,Brentford,FINISHED,1,1,D,2
+560557,2,2026-08-31,Aston Villa,Arsenal,FINISHED,0,1,A,1
+560566,3,2026-09-04,Ipswich Town,Liverpool,FINISHED,0,2,A,2
+560562,3,2026-09-05,Nottingham,Tottenham,FINISHED,0,0,D,0
+560563,3,2026-09-05,Man City,Coventry City,FINISHED,1,0,H,1
+560564,3,2026-09-05,Brighton Hove,Leeds United,FINISHED,1,1,D,2
+560565,3,2026-09-05,Brentford,Sunderland,FINISHED,1,1,D,2
+560568,3,2026-09-05,Fulham,Crystal Palace,FINISHED,2,3,A,5
+560569,3,2026-09-05,Hull City,Aston Villa,FINISHED,0,0,D,0
+560571,3,2026-09-05,Newcastle,Bournemouth,FINISHED,2,2,D,4
+560567,3,2026-09-06,Everton,Man United,FINISHED,2,2,D,4
+560570,3,2026-09-06,Arsenal,Chelsea,FINISHED,2,1,H,3
+560572,4,2026-09-12,Crystal Palace,Ipswich Town,FINISHED,2,3,A,5
+560573,4,2026-09-12,Liverpool,Fulham,FINISHED,0,0,D,0
+560574,4,2026-09-12,Aston Villa,Nottingham,FINISHED,1,2,A,3
+560575,4,2026-09-12,Tottenham,Everton,FINISHED,0,0,D,0
+560576,4,2026-09-12,Bournemouth,Brentford,FINISHED,2,2,D,4
+560577,4,2026-09-12,Sunderland,Arsenal,FINISHED,0,2,A,2
+560581,4,2026-09-12,Chelsea,Hull City,FINISHED,2,2,D,4
+560578,4,2026-09-13,Coventry City,Brighton Hove,FINISHED,0,5,A,5
+560580,4,2026-09-13,Man United,Man City,FINISHED,0,1,A,1
+560579,4,2026-09-14,Leeds United,Newcastle,FINISHED,4,1,H,5
+560591,5,2026-09-18,Brentford,Chelsea,FINISHED,3,0,H,3
+560584,5,2026-09-19,Everton,Ipswich Town,FINISHED,1,0,H,1
+560586,5,2026-09-19,Brighton Hove,Arsenal,FINISHED,3,0,H,3
+560587,5,2026-09-19,Tottenham,Aston Villa,FINISHED,2,3,A,5
+560588,5,2026-09-19,Newcastle,Hull City,FINISHED,2,1,H,3
+560589,5,2026-09-19,Nottingham,Coventry City,FINISHED,0,1,A,1
+560582,5,2026-09-20,Bournemouth,Liverpool,FINISHED,0,1,A,1
+560583,5,2026-09-20,Fulham,Man United,FINISHED,1,1,D,2
+560585,5,2026-09-20,Leeds United,Crystal Palace,FINISHED,0,0,D,0
+560590,5,2026-09-20,Man City,Sunderland,FINISHED,5,3,H,8
+560592,6,2026-10-10,Sunderland,Brighton Hove,FINISHED,0,2,A,2
+560593,6,2026-10-10,Arsenal,Leeds United,FINISHED,2,1,H,3
+560595,6,2026-10-10,Chelsea,Bournemouth,FINISHED,5,1,H,6
+560599,6,2026-10-10,Ipswich Town,Fulham,FINISHED,2,1,H,3
+560600,6,2026-10-10,Man United,Tottenham,FINISHED,1,1,D,2
+560601,6,2026-10-10,Aston Villa,Brentford,FINISHED,2,2,D,4
+560594,6,2026-10-11,Hull City,Everton,FINISHED,2,2,D,4
+560596,6,2026-10-11,Crystal Palace,Nottingham,FINISHED,3,1,H,4
+560598,6,2026-10-11,Liverpool,Man City,FINISHED,0,3,A,3
+560597,6,2026-10-12,Coventry City,Newcastle,FINISHED,4,1,H,5
+560602,7,2026-10-17,Fulham,Hull City,FINISHED,1,0,H,1
+560603,7,2026-10-17,Everton,Chelsea,FINISHED,0,2,A,2
+560607,7,2026-10-17,Newcastle,Aston Villa,FINISHED,0,1,A,1
+560610,7,2026-10-17,Man City,Ipswich Town,FINISHED,3,2,H,5
+560611,7,2026-10-17,Brentford,Liverpool,FINISHED,1,2,A,3
+560604,7,2026-10-18,Bournemouth,Sunderland,FINISHED,2,0,H,2
+560605,7,2026-10-18,Leeds United,Man United,FINISHED,1,1,D,2
+560608,7,2026-10-18,Nottingham,Arsenal,FINISHED,0,1,A,1
+560609,7,2026-10-18,Brighton Hove,Crystal Palace,FINISHED,5,0,H,5
+560606,7,2026-10-19,Tottenham,Coventry City,FINISHED,3,1,H,4
+560620,8,2026-10-23,Ipswich Town,Nottingham,FINISHED,1,1,D,2
+560614,8,2026-10-24,Aston Villa,Man City,FINISHED,2,1,H,3
+560616,8,2026-10-24,Arsenal,Everton,FINISHED,2,0,H,2
+560617,8,2026-10-24,Chelsea,Tottenham,FINISHED,0,2,A,2
+560618,8,2026-10-24,Coventry City,Fulham,FINISHED,0,1,A,1
+560612,8,2026-10-25,Liverpool,Brighton Hove,FINISHED,2,0,H,2
+560613,8,2026-10-25,Crystal Palace,Newcastle,FINISHED,0,2,A,2
+560615,8,2026-10-25,Man United,Bournemouth,FINISHED,0,3,A,3
+560619,8,2026-10-25,Hull City,Brentford,FINISHED,1,1,D,2
+560621,8,2026-10-25,Sunderland,Leeds United,FINISHED,0,0,D,0
+560623,9,2026-10-31,Man City,Brighton Hove,FINISHED,0,1,A,1
+560624,9,2026-10-31,Bournemouth,Leeds United,FINISHED,2,0,H,2
+560625,9,2026-10-31,Coventry City,Sunderland,FINISHED,3,1,H,4
+560626,9,2026-10-31,Chelsea,Man United,FINISHED,2,0,H,2
+560627,9,2026-10-31,Tottenham,Crystal Palace,FINISHED,2,0,H,2
+560628,9,2026-10-31,Aston Villa,Fulham,FINISHED,1,1,D,2
+560629,9,2026-10-31,Hull City,Ipswich Town,FINISHED,2,2,D,4
+560630,9,2026-10-31,Brentford,Nottingham,FINISHED,2,0,H,2
+560631,9,2026-11-01,Liverpool,Arsenal,FINISHED,0,1,A,1
+560622,9,2026-11-02,Newcastle,Everton,FINISHED,0,1,A,1
+560634,10,2026-11-06,Everton,Coventry City,FINISHED,3,1,H,4
+560632,10,2026-11-07,Leeds United,Tottenham,FINISHED,1,0,H,1
+560633,10,2026-11-07,Fulham,Newcastle,FINISHED,1,1,D,2
+560640,10,2026-11-07,Arsenal,Hull City,FINISHED,1,0,H,1
+560641,10,2026-11-07,Nottingham,Man City,FINISHED,3,1,H,4
+560635,10,2026-11-08,Crystal Palace,Liverpool,FINISHED,1,3,A,4
+560636,10,2026-11-08,Sunderland,Chelsea,FINISHED,1,0,H,1
+560637,10,2026-11-08,Ipswich Town,Bournemouth,FINISHED,1,2,A,3
+560638,10,2026-11-08,Brighton Hove,Brentford,FINISHED,2,0,H,2
+560639,10,2026-11-08,Man United,Aston Villa,FINISHED,4,4,D,8
+560642,11,2026-11-21,Chelsea,Leeds United,FINISHED,1,4,A,5
+560643,11,2026-11-21,Man City,Fulham,FINISHED,1,1,D,2
+560644,11,2026-11-21,Aston Villa,Sunderland,FINISHED,0,0,D,0
+560647,11,2026-11-21,Bournemouth,Nottingham,FINISHED,2,0,H,2
+560648,11,2026-11-21,Tottenham,Ipswich Town,FINISHED,2,0,H,2
+560650,11,2026-11-21,Coventry City,Crystal Palace,FINISHED,3,2,H,5
+560651,11,2026-11-21,Newcastle,Arsenal,FINISHED,2,2,D,4
+560645,11,2026-11-22,Liverpool,Man United,FINISHED,4,0,H,4
+560646,11,2026-11-22,Hull City,Brighton Hove,FINISHED,2,0,H,2
+560649,11,2026-11-23,Brentford,Everton,FINISHED,4,0,H,4
+560658,12,2026-11-27,Nottingham,Chelsea,TIMED,,,,
+560652,12,2026-11-28,Leeds United,Coventry City,TIMED,,,,
+560653,12,2026-11-28,Ipswich Town,Aston Villa,TIMED,,,,
+560655,12,2026-11-28,Man United,Brentford,TIMED,,,,
+560654,12,2026-11-29,Arsenal,Man City,TIMED,,,,
+560656,12,2026-11-29,Everton,Liverpool,TIMED,,,,
+560657,12,2026-11-29,Fulham,Bournemouth,TIMED,,,,
+560659,12,2026-11-29,Brighton Hove,Newcastle,TIMED,,,,
+560660,12,2026-11-29,Sunderland,Tottenham,TIMED,,,,
+560661,12,2026-11-29,Crystal Palace,Hull City,TIMED,,,,
+560668,13,2026-12-01,Coventry City,Ipswich Town,TIMED,,,,
+560663,13,2026-12-02,Liverpool,Sunderland,TIMED,,,,
+560664,13,2026-12-02,Hull City,Nottingham,TIMED,,,,
+560665,13,2026-12-02,Chelsea,Crystal Palace,TIMED,,,,
+560666,13,2026-12-02,Aston Villa,Everton,TIMED,,,,
+560667,13,2026-12-02,Brentford,Arsenal,TIMED,,,,
+560669,13,2026-12-02,Man City,Leeds United,TIMED,,,,
+560670,13,2026-12-02,Newcastle,Man United,TIMED,,,,
+560671,13,2026-12-02,Bournemouth,Brighton Hove,TIMED,,,,
+560662,13,2026-12-03,Tottenham,Fulham,TIMED,,,,
+560673,14,2026-12-05,Man United,Coventry City,TIMED,,,,
+560674,14,2026-12-05,Leeds United,Ipswich Town,TIMED,,,,
+560676,14,2026-12-05,Chelsea,Liverpool,TIMED,,,,
+560677,14,2026-12-05,Brentford,Man City,TIMED,,,,
+560678,14,2026-12-05,Bournemouth,Hull City,TIMED,,,,
+560679,14,2026-12-05,Aston Villa,Crystal Palace,TIMED,,,,
+560680,14,2026-12-05,Nottingham,Brighton Hove,TIMED,,,,
+560672,14,2026-12-06,Tottenham,Arsenal,TIMED,,,,
+560675,14,2026-12-06,Newcastle,Sunderland,TIMED,,,,
+560681,14,2026-12-06,Everton,Fulham,TIMED,,,,
+560686,15,2026-12-12,Ipswich Town,Newcastle,TIMED,,,,
+560689,15,2026-12-12,Man City,Chelsea,TIMED,,,,
+560690,15,2026-12-12,Liverpool,Leeds United,TIMED,,,,
+560691,15,2026-12-12,Fulham,Brentford,TIMED,,,,
+560682,15,2026-12-13,Sunderland,Nottingham,TIMED,,,,
+560683,15,2026-12-13,Crystal Palace,Man United,TIMED,,,,
+560685,15,2026-12-13,Brighton Hove,Everton,TIMED,,,,
+560687,15,2026-12-13,Coventry City,Aston Villa,TIMED,,,,
+560688,15,2026-12-13,Arsenal,Bournemouth,TIMED,,,,
+560684,15,2026-12-14,Hull City,Tottenham,TIMED,,,,
+560692,16,2026-12-19,Leeds United,Fulham,TIMED,,,,
+560695,16,2026-12-19,Brentford,Newcastle,TIMED,,,,
+560696,16,2026-12-19,Man City,Hull City,TIMED,,,,
+560698,16,2026-12-19,Bournemouth,Coventry City,TIMED,,,,
+560700,16,2026-12-19,Liverpool,Tottenham,TIMED,,,,
+560693,16,2026-12-20,Brighton Hove,Ipswich Town,TIMED,,,,
+560694,16,2026-12-20,Nottingham,Everton,TIMED,,,,
+560697,16,2026-12-20,Sunderland,Crystal Palace,TIMED,,,,
+560699,16,2026-12-20,Arsenal,Man United,TIMED,,,,
+560701,16,2026-12-21,Chelsea,Aston Villa,TIMED,,,,
+560702,17,2026-12-26,Aston Villa,Leeds United,TIMED,,,,
+560705,17,2026-12-26,Everton,Sunderland,TIMED,,,,
+560707,17,2026-12-26,Newcastle,Man City,TIMED,,,,
+560708,17,2026-12-26,Fulham,Brighton Hove,TIMED,,,,
+560709,17,2026-12-26,Tottenham,Bournemouth,TIMED,,,,
+560710,17,2026-12-26,Hull City,Liverpool,TIMED,,,,
+560711,17,2026-12-26,Ipswich Town,Brentford,TIMED,,,,
+560703,17,2026-12-27,Man United,Nottingham,TIMED,,,,
+560704,17,2026-12-27,Crystal Palace,Arsenal,TIMED,,,,
+560706,17,2026-12-27,Coventry City,Chelsea,TIMED,,,,
+560716,18,2026-12-29,Hull City,Leeds United,TIMED,,,,
+560719,18,2026-12-29,Tottenham,Brighton Hove,TIMED,,,,
+560720,18,2026-12-29,Everton,Man City,TIMED,,,,
+560712,18,2026-12-30,Fulham,Arsenal,TIMED,,,,
+560713,18,2026-12-30,Coventry City,Brentford,TIMED,,,,
+560714,18,2026-12-30,Aston Villa,Liverpool,TIMED,,,,
+560715,18,2026-12-30,Newcastle,Nottingham,TIMED,,,,
+560717,18,2026-12-30,Man United,Sunderland,TIMED,,,,
+560718,18,2026-12-30,Ipswich Town,Chelsea,TIMED,,,,
+560721,18,2026-12-30,Crystal Palace,Bournemouth,TIMED,,,,
+560724,19,2027-01-01,Leeds United,Everton,TIMED,,,,
+560722,19,2027-01-02,Bournemouth,Aston Villa,TIMED,,,,
+560723,19,2027-01-02,Brentford,Crystal Palace,TIMED,,,,
+560725,19,2027-01-02,Arsenal,Ipswich Town,TIMED,,,,
+560726,19,2027-01-02,Sunderland,Hull City,TIMED,,,,
+560727,19,2027-01-02,Liverpool,Coventry City,TIMED,,,,
+560729,19,2027-01-02,Nottingham,Fulham,TIMED,,,,
+560730,19,2027-01-02,Brighton Hove,Man United,TIMED,,,,
+560728,19,2027-01-03,Chelsea,Newcastle,TIMED,,,,
+560731,19,2027-01-03,Man City,Tottenham,TIMED,,,,
+560732,20,2027-01-05,Arsenal,Brentford,TIMED,,,,
+560735,20,2027-01-05,Brighton Hove,Bournemouth,TIMED,,,,
+560736,20,2027-01-05,Nottingham,Hull City,TIMED,,,,
+560738,20,2027-01-05,Everton,Aston Villa,TIMED,,,,
+560739,20,2027-01-05,Sunderland,Liverpool,TIMED,,,,
+560733,20,2027-01-06,Leeds United,Man City,TIMED,,,,
+560737,20,2027-01-06,Fulham,Tottenham,TIMED,,,,
+560740,20,2027-01-06,Crystal Palace,Chelsea,TIMED,,,,
+560741,20,2027-01-06,Ipswich Town,Coventry City,TIMED,,,,
+560734,20,2027-01-07,Man United,Newcastle,TIMED,,,,
+560743,21,2027-01-16,Man City,Nottingham,TIMED,,,,
+560744,21,2027-01-16,Chelsea,Sunderland,TIMED,,,,
+560746,21,2027-01-16,Aston Villa,Man United,TIMED,,,,
+560748,21,2027-01-16,Coventry City,Everton,TIMED,,,,
+560749,21,2027-01-16,Liverpool,Crystal Palace,TIMED,,,,
+560750,21,2027-01-16,Hull City,Arsenal,TIMED,,,,
+560751,21,2027-01-16,Newcastle,Fulham,TIMED,,,,
+560742,21,2027-01-17,Bournemouth,Ipswich Town,TIMED,,,,
+560747,21,2027-01-17,Tottenham,Leeds United,TIMED,,,,
+560745,21,2027-01-18,Brentford,Brighton Hove,TIMED,,,,
+560752,22,2027-01-23,Ipswich Town,Hull City,TIMED,,,,
+560756,22,2027-01-23,Arsenal,Newcastle,TIMED,,,,
+560758,22,2027-01-23,Fulham,Aston Villa,TIMED,,,,
+560760,22,2027-01-23,Brighton Hove,Man City,TIMED,,,,
+560753,22,2027-01-24,Everton,Brentford,TIMED,,,,
+560754,22,2027-01-24,Sunderland,Coventry City,TIMED,,,,
+560755,22,2027-01-24,Nottingham,Bournemouth,TIMED,,,,
+560759,22,2027-01-24,Man United,Liverpool,TIMED,,,,
+560761,22,2027-01-24,Crystal Palace,Tottenham,TIMED,,,,
+560757,22,2027-01-25,Leeds United,Chelsea,TIMED,,,,
+560764,23,2027-01-30,Newcastle,Brighton Hove,TIMED,,,,
+560768,23,2027-01-30,Chelsea,Nottingham,TIMED,,,,
+560769,23,2027-01-30,Liverpool,Everton,TIMED,,,,
+560771,23,2027-01-30,Aston Villa,Ipswich Town,TIMED,,,,
+560762,23,2027-01-31,Tottenham,Sunderland,TIMED,,,,
+560765,23,2027-01-31,Hull City,Crystal Palace,TIMED,,,,
+560766,23,2027-01-31,Coventry City,Leeds United,TIMED,,,,
+560767,23,2027-01-31,Bournemouth,Fulham,TIMED,,,,
+560770,23,2027-01-31,Man City,Arsenal,TIMED,,,,
+560763,23,2027-02-01,Brentford,Man United,TIMED,,,,
+560772,24,2027-02-06,Arsenal,Liverpool,TIMED,,,,
+560773,24,2027-02-06,Brighton Hove,Hull City,TIMED,,,,
+560774,24,2027-02-06,Sunderland,Aston Villa,TIMED,,,,
+560775,24,2027-02-06,Crystal Palace,Coventry City,TIMED,,,,
+560776,24,2027-02-06,Ipswich Town,Tottenham,TIMED,,,,
+560777,24,2027-02-06,Everton,Newcastle,TIMED,,,,
+560778,24,2027-02-06,Fulham,Man City,TIMED,,,,
+560779,24,2027-02-06,Leeds United,Bournemouth,TIMED,,,,
+560780,24,2027-02-06,Man United,Chelsea,TIMED,,,,
+560781,24,2027-02-06,Nottingham,Brentford,TIMED,,,,
+560782,25,2027-02-10,Everton,Leeds United,TIMED,,,,
+560783,25,2027-02-10,Coventry City,Liverpool,TIMED,,,,
+560784,25,2027-02-10,Hull City,Sunderland,TIMED,,,,
+560785,25,2027-02-10,Aston Villa,Bournemouth,TIMED,,,,
+560786,25,2027-02-10,Crystal Palace,Brentford,TIMED,,,,
+560787,25,2027-02-10,Newcastle,Chelsea,TIMED,,,,
+560788,25,2027-02-10,Fulham,Nottingham,TIMED,,,,
+560789,25,2027-02-10,Tottenham,Man City,TIMED,,,,
+560790,25,2027-02-10,Man United,Brighton Hove,TIMED,,,,
+560791,25,2027-02-10,Ipswich Town,Arsenal,TIMED,,,,
+560792,26,2027-02-20,Man City,Newcastle,TIMED,,,,
+560793,26,2027-02-20,Bournemouth,Crystal Palace,TIMED,,,,
+560794,26,2027-02-20,Brentford,Coventry City,TIMED,,,,
+560795,26,2027-02-20,Chelsea,Ipswich Town,TIMED,,,,
+560796,26,2027-02-20,Liverpool,Hull City,TIMED,,,,
+560797,26,2027-02-20,Arsenal,Fulham,TIMED,,,,
+560798,26,2027-02-20,Nottingham,Man United,TIMED,,,,
+560799,26,2027-02-20,Brighton Hove,Tottenham,TIMED,,,,
+560800,26,2027-02-20,Sunderland,Everton,TIMED,,,,
+560801,26,2027-02-20,Leeds United,Aston Villa,TIMED,,,,
+560802,27,2027-02-27,Crystal Palace,Sunderland,TIMED,,,,
+560803,27,2027-02-27,Man United,Arsenal,TIMED,,,,
+560804,27,2027-02-27,Ipswich Town,Brighton Hove,TIMED,,,,
+560805,27,2027-02-27,Coventry City,Bournemouth,TIMED,,,,
+560806,27,2027-02-27,Everton,Nottingham,TIMED,,,,
+560807,27,2027-02-27,Fulham,Leeds United,TIMED,,,,
+560808,27,2027-02-27,Aston Villa,Chelsea,TIMED,,,,
+560809,27,2027-02-27,Tottenham,Liverpool,TIMED,,,,
+560810,27,2027-02-27,Newcastle,Brentford,TIMED,,,,
+560811,27,2027-02-27,Hull City,Man City,TIMED,,,,
+560812,28,2027-03-03,Nottingham,Newcastle,TIMED,,,,
+560813,28,2027-03-03,Bournemouth,Tottenham,TIMED,,,,
+560814,28,2027-03-03,Man City,Everton,TIMED,,,,
+560815,28,2027-03-03,Arsenal,Crystal Palace,TIMED,,,,
+560816,28,2027-03-03,Leeds United,Hull City,TIMED,,,,
+560817,28,2027-03-03,Sunderland,Man United,TIMED,,,,
+560818,28,2027-03-03,Liverpool,Aston Villa,TIMED,,,,
+560819,28,2027-03-03,Brighton Hove,Fulham,TIMED,,,,
+560820,28,2027-03-03,Brentford,Ipswich Town,TIMED,,,,
+560821,28,2027-03-03,Chelsea,Coventry City,TIMED,,,,
+560822,29,2027-03-13,Leeds United,Brighton Hove,TIMED,,,,
+560823,29,2027-03-13,Tottenham,Nottingham,TIMED,,,,
+560824,29,2027-03-13,Crystal Palace,Fulham,TIMED,,,,
+560825,29,2027-03-13,Liverpool,Ipswich Town,TIMED,,,,
+560826,29,2027-03-13,Coventry City,Man City,TIMED,,,,
+560827,29,2027-03-13,Bournemouth,Newcastle,TIMED,,,,
+560828,29,2027-03-13,Chelsea,Arsenal,TIMED,,,,
+560829,29,2027-03-13,Aston Villa,Hull City,TIMED,,,,
+560830,29,2027-03-13,Man United,Everton,TIMED,,,,
+560831,29,2027-03-13,Sunderland,Brentford,TIMED,,,,
+560832,30,2027-03-20,Brentford,Bournemouth,TIMED,,,,
+560833,30,2027-03-20,Brighton Hove,Coventry City,TIMED,,,,
+560834,30,2027-03-20,Man City,Man United,TIMED,,,,
+560835,30,2027-03-20,Ipswich Town,Crystal Palace,TIMED,,,,
+560836,30,2027-03-20,Arsenal,Sunderland,TIMED,,,,
+560837,30,2027-03-20,Fulham,Liverpool,TIMED,,,,
+560838,30,2027-03-20,Hull City,Chelsea,TIMED,,,,
+560839,30,2027-03-20,Nottingham,Aston Villa,TIMED,,,,
+560840,30,2027-03-20,Everton,Tottenham,TIMED,,,,
+560841,30,2027-03-20,Newcastle,Leeds United,TIMED,,,,
+560842,31,2027-04-10,Sunderland,Ipswich Town,TIMED,,,,
+560843,31,2027-04-10,Leeds United,Nottingham,TIMED,,,,
+560844,31,2027-04-10,Man United,Hull City,TIMED,,,,
+560845,31,2027-04-10,Chelsea,Fulham,TIMED,,,,
+560846,31,2027-04-10,Liverpool,Newcastle,TIMED,,,,
+560847,31,2027-04-10,Coventry City,Arsenal,TIMED,,,,
+560848,31,2027-04-10,Bournemouth,Man City,TIMED,,,,
+560849,31,2027-04-10,Crystal Palace,Everton,TIMED,,,,
+560850,31,2027-04-10,Tottenham,Brentford,TIMED,,,,
+560851,31,2027-04-10,Aston Villa,Brighton Hove,TIMED,,,,
+560852,32,2027-04-17,Brighton Hove,Chelsea,TIMED,,,,
+560853,32,2027-04-17,Fulham,Sunderland,TIMED,,,,
+560854,32,2027-04-17,Brentford,Leeds United,TIMED,,,,
+560855,32,2027-04-17,Nottingham,Liverpool,TIMED,,,,
+560856,32,2027-04-17,Hull City,Coventry City,TIMED,,,,
+560857,32,2027-04-17,Arsenal,Aston Villa,TIMED,,,,
+560858,32,2027-04-17,Ipswich Town,Man United,TIMED,,,,
+560859,32,2027-04-17,Man City,Crystal Palace,TIMED,,,,
+560860,32,2027-04-17,Newcastle,Tottenham,TIMED,,,,
+560861,32,2027-04-17,Everton,Bournemouth,TIMED,,,,
+560862,33,2027-04-24,Chelsea,Man City,TIMED,,,,
+560863,33,2027-04-24,Bournemouth,Arsenal,TIMED,,,,
+560864,33,2027-04-24,Tottenham,Hull City,TIMED,,,,
+560865,33,2027-04-24,Man United,Crystal Palace,TIMED,,,,
+560866,33,2027-04-24,Everton,Brighton Hove,TIMED,,,,
+560867,33,2027-04-24,Nottingham,Sunderland,TIMED,,,,
+560868,33,2027-04-24,Newcastle,Ipswich Town,TIMED,,,,
+560869,33,2027-04-24,Aston Villa,Coventry City,TIMED,,,,
+560870,33,2027-04-24,Brentford,Fulham,TIMED,,,,
+560871,33,2027-04-24,Leeds United,Liverpool,TIMED,,,,
+560872,34,2027-05-01,Sunderland,Newcastle,TIMED,,,,
+560873,34,2027-05-01,Brighton Hove,Nottingham,TIMED,,,,
+560874,34,2027-05-01,Coventry City,Man United,TIMED,,,,
+560875,34,2027-05-01,Hull City,Bournemouth,TIMED,,,,
+560876,34,2027-05-01,Man City,Brentford,TIMED,,,,
+560877,34,2027-05-01,Fulham,Everton,TIMED,,,,
+560878,34,2027-05-01,Liverpool,Chelsea,TIMED,,,,
+560879,34,2027-05-01,Arsenal,Tottenham,TIMED,,,,
+560880,34,2027-05-01,Crystal Palace,Aston Villa,TIMED,,,,
+560881,34,2027-05-01,Ipswich Town,Leeds United,TIMED,,,,
+560882,35,2027-05-08,Man City,Liverpool,TIMED,,,,
+560883,35,2027-05-08,Leeds United,Arsenal,TIMED,,,,
+560884,35,2027-05-08,Fulham,Ipswich Town,TIMED,,,,
+560885,35,2027-05-08,Nottingham,Crystal Palace,TIMED,,,,
+560886,35,2027-05-08,Brentford,Aston Villa,TIMED,,,,
+560887,35,2027-05-08,Newcastle,Coventry City,TIMED,,,,
+560888,35,2027-05-08,Brighton Hove,Sunderland,TIMED,,,,
+560889,35,2027-05-08,Tottenham,Chelsea,TIMED,,,,
+560890,35,2027-05-08,Everton,Hull City,TIMED,,,,
+560891,35,2027-05-08,Bournemouth,Man United,TIMED,,,,
+560892,36,2027-05-15,Sunderland,Bournemouth,TIMED,,,,
+560893,36,2027-05-15,Liverpool,Brentford,TIMED,,,,
+560894,36,2027-05-15,Ipswich Town,Man City,TIMED,,,,
+560895,36,2027-05-15,Arsenal,Nottingham,TIMED,,,,
+560896,36,2027-05-15,Hull City,Fulham,TIMED,,,,
+560897,36,2027-05-15,Man United,Leeds United,TIMED,,,,
+560898,36,2027-05-15,Crystal Palace,Brighton Hove,TIMED,,,,
+560899,36,2027-05-15,Aston Villa,Newcastle,TIMED,,,,
+560900,36,2027-05-15,Chelsea,Everton,TIMED,,,,
+560901,36,2027-05-15,Coventry City,Tottenham,TIMED,,,,
+560902,37,2027-05-23,Brentford,Hull City,TIMED,,,,
+560903,37,2027-05-23,Newcastle,Crystal Palace,TIMED,,,,
+560904,37,2027-05-23,Tottenham,Man United,TIMED,,,,
+560905,37,2027-05-23,Leeds United,Sunderland,TIMED,,,,
+560906,37,2027-05-23,Brighton Hove,Liverpool,TIMED,,,,
+560907,37,2027-05-23,Nottingham,Ipswich Town,TIMED,,,,
+560908,37,2027-05-23,Bournemouth,Chelsea,TIMED,,,,
+560909,37,2027-05-23,Fulham,Coventry City,TIMED,,,,
+560910,37,2027-05-23,Everton,Arsenal,TIMED,,,,
+560911,37,2027-05-23,Man City,Aston Villa,TIMED,,,,
+560912,38,2027-05-30,Ipswich Town,Everton,TIMED,,,,
+560913,38,2027-05-30,Arsenal,Brighton Hove,TIMED,,,,
+560914,38,2027-05-30,Liverpool,Bournemouth,TIMED,,,,
+560915,38,2027-05-30,Coventry City,Nottingham,TIMED,,,,
+560916,38,2027-05-30,Aston Villa,Tottenham,TIMED,,,,
+560917,38,2027-05-30,Hull City,Newcastle,TIMED,,,,
+560918,38,2027-05-30,Man United,Fulham,TIMED,,,,
+560919,38,2027-05-30,Sunderland,Man City,TIMED,,,,
+560920,38,2027-05-30,Chelsea,Brentford,TIMED,,,,
+560921,38,2027-05-30,Crystal Palace,Leeds United,TIMED,,,,

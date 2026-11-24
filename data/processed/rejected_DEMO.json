@@ -1,0 +1,38 @@
+[
+  {
+    "match_id": 1000,
+    "reason": "trùng id với bản ghi trước"
+  },
+  {
+    "match_id": 9001,
+    "reason": "trận FINISHED nhưng thiếu tỷ số"
+  },
+  {
+    "match_id": 9002,
+    "reason": "thiếu tên đội nhà"
+  },
+  {
+    "match_id": 9003,
+    "reason": "ngày sai định dạng: '31/13/2026'"
+  },
+  {
+    "match_id": 9004,
+    "reason": "tỷ số không phải số nguyên: 'abc'"
+  },
+  {
+    "match_id": 9005,
+    "reason": "tỷ số âm: -1"
+  },
+  {
+    "match_id": 9006,
+    "reason": "trạng thái lạ: 'WEIRD_STATUS'"
+  },
+  {
+    "match_id": null,
+    "reason": "thiếu hoặc sai 'id'"
+  },
+  {
+    "match_id": 9008,
+    "reason": "đội nhà trùng đội khách"
+  }
+]

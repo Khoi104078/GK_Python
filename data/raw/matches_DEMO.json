@@ -1,0 +1,1439 @@
+{
+  "competition": {
+    "id": 0,
+    "code": "DEMO",
+    "name": "Giải mẫu (dữ liệu giả lập)"
+  },
+  "matches": [
+    {
+      "id": 1000,
+      "matchday": 1,
+      "utcDate": "2026-08-01T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1001,
+      "matchday": 1,
+      "utcDate": "2026-08-01T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "  Hải   Âu   United  "
+      },
+      "awayTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "score": {
+        "fullTime": {
+          "home": "1",
+          "away": "0"
+        }
+      }
+    },
+    {
+      "id": 1002,
+      "matchday": 1,
+      "utcDate": "2026-08-01T15:00:00Z",
+      "status": "finished ",
+      "homeTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "awayTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1003,
+      "matchday": 1,
+      "utcDate": "2026-08-01T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "awayTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1004,
+      "matchday": 2,
+      "utcDate": "2026-08-08T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "score": {
+        "fullTime": {
+          "home": 4,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1005,
+      "matchday": 2,
+      "utcDate": "2026-08-08T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "awayTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1006,
+      "matchday": 2,
+      "utcDate": "2026-08-08T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "awayTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1007,
+      "matchday": 2,
+      "utcDate": "2026-08-08T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "awayTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1008,
+      "matchday": 3,
+      "utcDate": "2026-08-15T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "score": {
+        "fullTime": {
+          "home": 4,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1009,
+      "matchday": 3,
+      "utcDate": "2026-08-15T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "awayTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1010,
+      "matchday": 3,
+      "utcDate": "2026-08-15T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "awayTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1011,
+      "matchday": 3,
+      "utcDate": "2026-08-15T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "awayTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "score": {
+        "fullTime": {
+          "home": 4,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1012,
+      "matchday": 4,
+      "utcDate": "2026-08-22T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1013,
+      "matchday": 4,
+      "utcDate": "2026-08-22T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "awayTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1014,
+      "matchday": 4,
+      "utcDate": "2026-08-22T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "awayTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1015,
+      "matchday": 4,
+      "utcDate": "2026-08-22T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1016,
+      "matchday": 5,
+      "utcDate": "2026-08-29T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1017,
+      "matchday": 5,
+      "utcDate": "2026-08-29T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "awayTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1018,
+      "matchday": 5,
+      "utcDate": "2026-08-29T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1019,
+      "matchday": 5,
+      "utcDate": "2026-08-29T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "awayTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1020,
+      "matchday": 6,
+      "utcDate": "2026-09-05T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1021,
+      "matchday": 6,
+      "utcDate": "2026-09-05T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1022,
+      "matchday": 6,
+      "utcDate": "2026-09-05T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "awayTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1023,
+      "matchday": 6,
+      "utcDate": "2026-09-05T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "awayTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1024,
+      "matchday": 7,
+      "utcDate": "2026-09-12T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1025,
+      "matchday": 7,
+      "utcDate": "2026-09-12T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "awayTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1026,
+      "matchday": 7,
+      "utcDate": "2026-09-12T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "awayTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1027,
+      "matchday": 7,
+      "utcDate": "2026-09-12T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "awayTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1028,
+      "matchday": 8,
+      "utcDate": "2026-09-19T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "awayTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1029,
+      "matchday": 8,
+      "utcDate": "2026-09-19T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1030,
+      "matchday": 8,
+      "utcDate": "2026-09-19T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "awayTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1031,
+      "matchday": 8,
+      "utcDate": "2026-09-19T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "awayTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1032,
+      "matchday": 9,
+      "utcDate": "2026-09-26T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "awayTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1033,
+      "matchday": 9,
+      "utcDate": "2026-09-26T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "awayTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1034,
+      "matchday": 9,
+      "utcDate": "2026-09-26T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1035,
+      "matchday": 9,
+      "utcDate": "2026-09-26T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "awayTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1036,
+      "matchday": 10,
+      "utcDate": "2026-10-03T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "awayTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1037,
+      "matchday": 10,
+      "utcDate": "2026-10-03T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "awayTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1038,
+      "matchday": 10,
+      "utcDate": "2026-10-03T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "awayTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1039,
+      "matchday": 10,
+      "utcDate": "2026-10-03T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1040,
+      "matchday": 11,
+      "utcDate": "2026-10-10T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "awayTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1041,
+      "matchday": 11,
+      "utcDate": "2026-10-10T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "awayTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1042,
+      "matchday": 11,
+      "utcDate": "2026-10-10T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "awayTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1043,
+      "matchday": 11,
+      "utcDate": "2026-10-10T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "awayTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1044,
+      "matchday": 12,
+      "utcDate": "2026-10-17T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "awayTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1045,
+      "matchday": 12,
+      "utcDate": "2026-10-17T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "awayTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1046,
+      "matchday": 12,
+      "utcDate": "2026-10-17T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "awayTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1047,
+      "matchday": 12,
+      "utcDate": "2026-10-17T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "awayTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1048,
+      "matchday": 13,
+      "utcDate": "2026-10-24T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "awayTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1049,
+      "matchday": 13,
+      "utcDate": "2026-10-24T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "awayTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1050,
+      "matchday": 13,
+      "utcDate": "2026-10-24T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "awayTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1051,
+      "matchday": 13,
+      "utcDate": "2026-10-24T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "awayTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1052,
+      "matchday": 14,
+      "utcDate": "2026-10-31T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "awayTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1053,
+      "matchday": 14,
+      "utcDate": "2026-10-31T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "awayTeam": {
+        "id": 3,
+        "name": "Phượng Hoàng City",
+        "shortName": "Phượng Hoàng City"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1054,
+      "matchday": 14,
+      "utcDate": "2026-10-31T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 7,
+        "name": "Sóng Biển",
+        "shortName": "Sóng Biển"
+      },
+      "awayTeam": {
+        "id": 4,
+        "name": "Rồng Xanh",
+        "shortName": "Rồng Xanh"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1055,
+      "matchday": 14,
+      "utcDate": "2026-10-31T15:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "id": 6,
+        "name": "Thiên Long",
+        "shortName": "Thiên Long"
+      },
+      "awayTeam": {
+        "id": 5,
+        "name": "Bão Tố FC",
+        "shortName": "Bão Tố FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 1000,
+      "matchday": 1,
+      "utcDate": "2026-08-01T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 8,
+        "name": "Lửa Đỏ",
+        "shortName": "Lửa Đỏ"
+      },
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 9001,
+      "matchday": 3,
+      "utcDate": "2026-08-02T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "id": 9002,
+      "matchday": 3,
+      "utcDate": "2026-08-02T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "   ",
+        "shortName": ""
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 9003,
+      "matchday": 3,
+      "utcDate": "31/13/2026",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 9004,
+      "matchday": 3,
+      "utcDate": "2026-08-02T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": "abc",
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 9005,
+      "matchday": 3,
+      "utcDate": "2026-08-02T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": -1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 9006,
+      "matchday": 3,
+      "utcDate": "2026-08-02T15:00:00Z",
+      "status": "WEIRD_STATUS",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": null,
+      "matchday": 3,
+      "utcDate": "2026-08-02T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 2,
+        "name": "Hải Âu United",
+        "shortName": "Hải Âu United"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 9008,
+      "matchday": 3,
+      "utcDate": "2026-08-02T15:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "awayTeam": {
+        "id": 1,
+        "name": "Sao Vàng FC",
+        "shortName": "Sao Vàng FC"
+      },
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    }
+  ]
+}
